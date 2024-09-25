@@ -5,6 +5,7 @@ import Card from './components/Card/Card';
 import Navbar from './components/Navbar/Navbar';
 
 //⭐️⭐️プッシュテスト
+//test1作成
 
 function App() {
   const initialURL = 'https://pokeapi.co/api/v2/pokemon'
